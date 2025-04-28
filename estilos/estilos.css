@@ -1,0 +1,71 @@
+body {
+    background-color: lightgray; 
+}
+
+h1 {
+    color: white;
+    background-color: rgb(58, 58, 90);
+    text-align: center;
+    margin-top: 0;
+}
+
+h2 {
+    color: rgb(58, 58, 90);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(58, 58, 90);
+    text-align: center;
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    background-color: lightgray;
+    margin: 12px;
+    border-left: 3px solid rgb(4, 4, 85);
+}
+
+a {
+    color: rgb(58, 58, 90);
+    text-decoration: none;
+    
+}
+    .migiro {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 18px;
+    background-color: lightgray;
+    color: gray;
+    border-radius: 5px;
+    border-width: 0;
+
+}
+
+.primer_cuadro {
+    background-color: white;
+    border: 3px solid rgb(58, 58, 90);
+    padding: 20px;
+    border-radius: 15px; 
+    text-align: center;
+}
+
+.segundo_cuadro {
+    background-color: white;
+    border: 3px solid rgb(58, 58, 90); 
+    margin-top: 20px;
+    border-radius: 15px;
+ }
+
+ footer {
+    color: wrgb(58, 58, 90);
+    text-align: center;
+    padding: 2px;
+    position: fixed;
+    width: 100%;
+ }
+
+footer p{
+    border-width: 0;
+ }
